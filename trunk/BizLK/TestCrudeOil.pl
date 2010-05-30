@@ -1,11 +1,11 @@
 # 
-# $URL:  $
-# $Date:  $
-# $Revision:  $
-# $Author:  $
-# $LastChangedDate:  $
+# $URL$
+# $Date$
+# $Revision$
+# $Author$
+# $LastChangedDate$
 #
-#  $
+# TTR
 # 
  
  
